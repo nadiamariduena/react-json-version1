@@ -4,4 +4,4 @@
 
 ~~No copyright infringement intended, All pictures used in this exercise are **_only_** for educational purposes.~~
 
-![preview](./public/1b.jpg)
+![preview](./public/img/1b.jpg)
