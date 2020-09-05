@@ -14,7 +14,7 @@ to choose what is simple when the time comes</p>
 
 <br>
 
-<p> Its still to eary for meto really notice the "why" of the use of the long versions in certain projects like for example </p>
+<p> Its still to early for me to  notice the "why" of the use of the long versions in certain projects like for example :</p>
 
 <br>
 
@@ -24,4 +24,4 @@ to choose what is simple when the time comes</p>
 
 ###### Click on the image to check the second version
 
-[<img src="./public/img/2b.jpg">](https://youtu.be/Bk1J_TbwUds)
+[<img src="./public/img/2b.jpg">](https://github.com/nadiamariduena/react-json-version2)
