@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0",
+    "name": "Melitta",
+    "city": "Paris",
+    "planet": "earth",
+    "img": "img/HugoMarie_JesseAuersalo_MaisonMartinMargiela_03.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Karl",
+    "city": "Norvege",
+    "planet": "saturn",
+    "img": "img/emma-larson.jpg"
+  }
+]

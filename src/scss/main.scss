@@ -1,0 +1,39 @@
+body {
+  overflow-x: hidden;
+  background-color: lemonchiffon;
+
+  #page {
+    display: flex;
+    flex-wrap: wrap;
+
+    .topSection {
+      width: 100vw;
+      display: flex;
+      flex-direction: column;
+
+      justify-content: center;
+      align-items: center;
+
+      h1 {
+        text-transform: uppercase;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .top {
+        text-align: center;
+        margin: 20px 0;
+
+        .img-box1 {
+          width: 40%;
+
+          img {
+            width: 100%;
+            min-height: auto;
+            object-fit: cover;
+          }
+        }
+        //
+      }
+    }
+  }
+}
